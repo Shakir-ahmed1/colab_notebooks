@@ -1,0 +1,1 @@
+Amharic STT using Whisper
